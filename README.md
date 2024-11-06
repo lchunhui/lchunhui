@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🎓 UMich Biostat Alum
 💼 Biostatistician @ healthcare system
